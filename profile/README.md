@@ -1,7 +1,7 @@
 <h1 align="center">We are Fulltimeforce</h1>
 <h3 align="center">Remote-first Development company focused in connecting LatAm developers with North-American companies</h3>
 
-- 🔭 We’re currently working on creating new ways of achieving our main goal. This is our latest attempt: [StackMate.app](https://stachmate-developer.webflow.io/)
+- 🔭 We’re currently working on creating new ways of achieving our main goal. Here is our latest attempt: [StackMate.app](https://stachmate-developer.webflow.io/)
 
 - 📚 We’re currently learning **Lean Methodologies + MVP testing + Marketing initiatives**
 
