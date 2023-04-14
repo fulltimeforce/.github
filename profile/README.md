@@ -173,8 +173,8 @@ Job Boards & Bootcamps**
 </p>
 <h4 align="left">Ecommerce Development:</h4>
 <p align="left">
-    <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="40"
+    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/WooCommerce_logo.svg" alt="wordpress" width="40"
             height="40" />
     </a>
     <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
@@ -276,6 +276,10 @@ Job Boards & Bootcamps**
 </p>
 <h4 align="left">Frameworks:</h4>
 <p align="left">
+    <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="40"
+            height="40" />
+    </a>
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
