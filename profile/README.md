@@ -3,9 +3,9 @@
 
 - 🔭 We’re currently working on creating new ways of achieving our main goal. This is our latest attempt: [StackMate.app](https://stachmate-developer.webflow.io/)
 
-- 🌱 We’re currently learning **Lean Methodologies + MVP testing + Marketing initiatives**
+- 📚 We’re currently learning **Lean Methodologies + MVP testing + Marketing initiatives**
 
-- 👯 We’re always open to wide our network with **Independent Developers, Colleges & Universities, Recruitment Agencies, Job Boards & Bootcamps**
+- 🌐 We’re always open to wide our network with **Independent Developers, Colleges & Universities, Recruitment Agencies, Job Boards & Bootcamps**
 
 - 🤝 We’re looking to help **American & Canadian Startups** to achieve their Software Development goals
 
