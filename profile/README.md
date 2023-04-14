@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on Medium [https://medium.com/@fulltimeforce](https://medium.com/@fulltimeforce)
 
-- 💬 Ask me about **How to develop a Startup MVP from scrath**
+- 💬 Ask me about **How to develop a Startup MVP from scratch**
 
 - 📫 Reach me at **info@fulltimeforce.com**
 
