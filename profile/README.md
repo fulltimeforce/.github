@@ -178,7 +178,7 @@ Job Boards & Bootcamps**
             height="40" />
     </a>
     <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopify_logo_2018.svg" alt="shopify" width="40"
+        <img src="https://cdn.cdnlogo.com/logos/s/88/shopify.svg" alt="shopify" width="40"
             height="40" />
     </a>
 </p>
