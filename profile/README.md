@@ -5,9 +5,9 @@
 
 - 🌱 We’re currently learning **Lean Methodologies + MVP testing + Marketing initiatives**
 
-- 👯 We’re always open to collaborate with **Independent Developers & Recruitment Agencies**
+- 👯 We’re always open to wide our network with **Independent Developers, Colleges & Universities, Recruitment Agencies, Job Boards & Bootcamps**
 
-- 🤝 We’re looking to help **US & Canadian Startups to achieve their Software Development goals**
+- 🤝 We’re looking to help **American & Canadian Startups** to achieve their Software Development goals
 
 - 📝 I regularly write articles on Medium [https://medium.com/@fulltimeforce](https://medium.com/@fulltimeforce)
 
