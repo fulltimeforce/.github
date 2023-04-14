@@ -1,5 +1,7 @@
 <h1 align="center">We are Fulltimeforce</h1>
 <h3 align="center">Remote-first Development company focused in connecting LatAm developers with North-American companies</h3>
+<br/><br/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/media/49e78263e3d15f2adaa0793b3179b74a.gif">
 
 - 🔭 We’re currently working on creating new ways of achieving our main goal. Here is our latest attempt: [StackMate.app](https://stachmate-developer.webflow.io/)
 
@@ -18,6 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/fulltimeforce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fulltimeforce" height="30" width="40" /></a>
+<a href="https://fb.com/fulltimeforce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fulltimeforce" height="30" width="40" /></a>
+<a href="https://instagram.com/fulltimeforce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fulltimeforce" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
