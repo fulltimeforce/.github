@@ -1,5 +1,5 @@
 <h1 align="center">We are Fulltimeforce</h1>
-<h3 align="center">Remote-first Software Development company focused in connecting <br /> North-American companies with
+<h3 align="center">Remote-first Software Development company focused in connecting <br /> North-American businesses with
     LatAm engineers</h3>
 <br /><br />
 <img align="right" alt="Coding" width="400"
