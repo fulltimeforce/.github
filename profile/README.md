@@ -11,11 +11,11 @@
 
 - 🤝 We’re looking to help **American & Canadian Startups** to achieve their Software Development goals
 
-- 📝 I regularly write articles on Medium [https://medium.com/@fulltimeforce](https://medium.com/@fulltimeforce)
+- 📝 We're regularly write articles on Medium [https://medium.com/@fulltimeforce](https://medium.com/@fulltimeforce)
 
-- 💬 Ask me about **How to develop a Startup MVP from scratch**
+- 💬 Ask us about **How to develop a Startup MVP from scratch**
 
-- 📫 Reach me at **info@fulltimeforce.com**
+- 📫 Reach us at **info@fulltimeforce.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
