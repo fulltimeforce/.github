@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on Medium [https://medium.com/@fulltimeforce](https://medium.com/@fulltimeforce)
 
-- 💬 Ask me about **Startup MVP development cycle + launching**
+- 💬 Ask me about **How to develop a Startup MVP from scrath**
 
-- 📫 How to reach me **ceo@fulltimeforce.com**
+- 📫 Reach me at **info@fulltimeforce.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
