@@ -15,7 +15,7 @@ Job Boards & Bootcamps**
 
 - 🤝 We’re looking to help **American & Canadian Startups** to achieve their Software Development goals
 
-- 📝 We're regularly write articles on Medium [https://medium.com/@fulltimeforce](https://medium.com/@fulltimeforce)
+- 📝 We're regularly writing articles on Medium [https://medium.com/@fulltimeforce](https://medium.com/@fulltimeforce)
 
 - 💬 Ask us about **How to develop a Startup MVP from scratch**
 
