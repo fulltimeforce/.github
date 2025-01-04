@@ -125,7 +125,7 @@ Job Boards & Bootcamps**
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" /> </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
+            src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs"
             width="40" height="40" /> </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
@@ -290,9 +290,6 @@ Job Boards & Bootcamps**
     <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
             alt="electron" width="40" height="40" /> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" /> </a>
     <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp"
             width="40" height="40" /> </a>
@@ -300,7 +297,7 @@ Job Boards & Bootcamps**
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
             alt="rails" width="40" height="40" /> </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            src="https://laravel.com/img/logomark.min.svg"
             alt="laravel" width="40" height="40" /> </a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img
             src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" /> </a>
