@@ -53,7 +53,7 @@ Job Boards & Bootcamps**
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
+            src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust"
             width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -334,7 +334,7 @@ Job Boards & Bootcamps**
             src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40"
             height="40" /> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+            src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="40" height="40" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
