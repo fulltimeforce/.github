@@ -5,8 +5,7 @@
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/278287/screenshots/1343921/media/49e78263e3d15f2adaa0793b3179b74a.gif">
 
-- 🔭 We’re currently working on creating new ways of achieving our main goal. Here is our latest attempt:
-[StackMate.app](https://stachmate-developer.webflow.io/)
+- 🔭 We’re currently working on creating new ways of achieving our main goal. 
 
 - 📚 We’re currently learning **Lean Methodologies + MVP testing + Marketing initiatives**
 
